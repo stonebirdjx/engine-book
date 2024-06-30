@@ -141,4 +141,21 @@ func main() {
 }
 ```
 > go run client/main.go
+>
 > Greeting: Hello world
+
+# protobuf 编解码
+```go 
+import(
+    "github.com/golang/protobuf/proto"
+)
+
+func main() {
+    req := &pb.HelloRequest{Name: "world"} //proto.Message
+    encoded, err := proto.Marshal(req)
+
+    req2 := &pb.HelloRequest{} //proto.Message
+    proto.Unmarshal(encoded, req2)
+}
+
+```
