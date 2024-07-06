@@ -46,6 +46,7 @@ func crash() {
 
 > Linux 上还受到 ulimit 的限制。可以用 ulimit -c 查看对 Core dump 的大小限制。 默认情况下，Core dump 的大小为 0，即不生成。ulimit -c unlimited
 > 
+> limit 系统core dump位置 ->  /proc/sys/kernel/core_pattern
 
 编译与运行
 ```bash
