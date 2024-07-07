@@ -2,6 +2,7 @@
 - [简介](README.md)
 - [Linux](Linux.md)
     - [shell](Linux/shell.md)
+    - [shell编码规范](Linux/shell_style.md)
 - [Golang](Golang.md)
     - [pprof](Golang/pprof.md)
     - [GOTRACEBACK](Golang/trace_back.md)
