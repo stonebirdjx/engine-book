@@ -4,6 +4,7 @@
     - [shell](Linux/shell.md)
     - [shell编码规范](Linux/shell_style.md)
 - [Golang](Golang.md)
+    - [build](Golang/build.md)
     - [pprof](Golang/pprof.md)
     - [GOTRACEBACK](Golang/trace_back.md)
     - [GODEBUG](Golang/debug.md)
@@ -15,3 +16,5 @@
     - [常用命令](ZooKeeper/command.md)
 - [压力测试](Benchmark.md)
     - [http压力测试](Benchmark/http.md)
+- [LeetCodeHot100](LeetCodeHot100.md)
+    - [1.两数之和(简单)](LeetCodeHot100/1.TwoSum.md)
