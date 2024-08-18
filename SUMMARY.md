@@ -20,3 +20,4 @@
     - [1.两数之和(简单)](LeetCodeHot100/1.TwoSum.md)
     - [49.字母异位词分组(中等)](LeetCodeHot100/49.group-anagrams.md)
     - [128.最长连续序列(中等)](LeetCodeHot100/128.longest-consecutive-sequence.md)
+    - [283.移动零(简单](LeetCodeHot100/283.move-zeroes.md)
